@@ -1,0 +1,11 @@
+section{
+    background-color: 
+    RGB(26, 188, 156);
+    color: #fff;
+    min-height: calc( 100vh - 70px);
+}
+.about-header h2{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}

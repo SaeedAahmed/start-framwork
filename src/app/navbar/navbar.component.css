@@ -1,0 +1,21 @@
+.navbar{
+    background-color: RGB(44, 62, 80) !important;
+    transition: 0.5s;
+    z-index: 999;
+}
+.navbar-brand{
+    font-size: 40px !important;
+    font-weight: 700;
+    color: #fff !important;
+}
+.nav-link{
+    font-size: 20px !important;
+    font-weight: 700;
+    color: #fff !important;
+}
+.active-link{
+    background-color: #1ABC9C;
+    padding: 8px;
+    width: fit-content;
+    border-radius: 10px;
+}

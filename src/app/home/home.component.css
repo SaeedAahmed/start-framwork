@@ -1,0 +1,16 @@
+section{
+    min-height: calc( 100vh - 70px);
+    background-color: RGB(26, 188, 156);
+    color: #fff;
+}
+img{
+    margin-top: 2.8em;
+}
+.home-title h2{
+    font-size: 50px;
+    font-weight: 700;
+}
+.home-title .title{
+    font-size: 20px;
+    font-weight: 400;
+}
